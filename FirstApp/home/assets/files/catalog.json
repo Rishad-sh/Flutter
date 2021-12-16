@@ -1,0 +1,23 @@
+{
+    "Products":[
+    {
+    "id": 1,
+    "name": "Katla Fish",
+    "desc": "Weight=1.5 Kg",
+    "price":120,
+    "color": "Silver",
+    "image":"https://5.imimg.com/data5/JA/NN/MY-4968409/rohu-fish-500x500.jpg"
+    },
+    {
+        
+        "id": 1,
+        "name": "Rui Fish",
+        "desc": "Weight=1.5 Kg",
+        "price":150,
+        "color": "Silver",
+        "image":"https://images.othoba.com/images/thumbs/0313567_rui-fish-33kg-100gm-per-pc-before-cutting.jpeg"
+      
+    }
+
+    ]
+}
